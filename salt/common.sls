@@ -4,3 +4,4 @@ install_common:
       - vim
       - tree
       - zsh
+      - python3-git
